@@ -5,4 +5,7 @@
     <color name="colorAccent">#FFD700</color>
     <color name="colorGold"> #DEB887</color>
     <color name="colorPrimaryLight">#FFC500</color>
+    <color name="colorBrown">#4a2b20</color>
+    <color name="colorGreen">#81c784</color>
+    <color name="colorYellow">#ffeb3b</color>
 </resources>

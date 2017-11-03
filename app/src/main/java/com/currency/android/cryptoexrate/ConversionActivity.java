@@ -67,24 +67,24 @@ public class ConversionActivity extends AppCompatActivity {
     public String getFullName(String moneyCode) {
         switch (moneyCode) {
             case "NGN": return "Naira";
-            case "USD": return "US Dollar";
+            case "AED": return "United Arab Emirate Dirham";
             case "EUR": return "Euro";
-            case "JPY": return "Yen";
-            case "GBP": return "Pound Sterling";
+            case "PEN": return "Peruvian Sol";
+            case "DZD": return "Algerian Dinar";
             case "AUD": return "Australian Dollar";
+            case "DKK": return "Danish Krone";
             case "CAD": return "Canadian Dollar";
-            case "CHF": return "Swiss Franc";
-            case "CNY": return "Yuan";
+            case "USD": return "US Dollar";
+            case "RON": return "Romanian Leu";
             case "KES": return "Kenyan Shilling";
             case "GHS": return "Cedi";
-            case "UGX": return "Ugandan Shilling";
-            case "ZAR": return "Rand";
-            case "XAF": return "CFA Franc BCEAO";
+            case "NOK": return "Norwegian Krone";
+            case "RUB": return "Russian Ruble";
+            case "MAD": return "Moroccan Dirham";
             case "NZD": return "New Zealand Dollar";
             case "MYR": return "Malaysian Ringgit";
-            case "BND": return "Brunei Dollar";
+            case "HRK": return "Croatian Kuna";
             case "GEL": return "Lari";
-            case "RUB": return "Russian Ruble";
             case "INR": return "Indian Rupee";
             default: return "";
         }

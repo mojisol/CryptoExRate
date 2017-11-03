@@ -79,7 +79,7 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
 
 
         url = "https://min-api.cryptocompare.com/data/pricemulti?fsyms=BTC,ETH&tsyms=" +
-                "NGN,USD,EUR,JPY,GBP,AUD,CAD,CHF,CNY,KES,GHS,UGX,ZAR,XAF,NZD,MYR,BND,GEL,RUB,INR";
+                "NGN,AED,EUR,PEN,DZD,AUD,CAD,USD,AED,RON,KES,GHS,NOK,RUB,DKK,MAD,NZD,MYR,HRK,GEL,INR";
         //Currencies will NOT be displayed in this here order
         downloadRates();
 
