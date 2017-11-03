@@ -1,3 +1,32 @@
 <resources>
     <string name="app_name">CryptoExRate</string>
+    <string name="app_full_name">Crypto Exchange Rate</string>
+    <string name="app_description">A Cryptocurrency App for your latest exchange rate</string>
+
+    <string name="nav_drawer_open">Open navigation drawer</string>
+    <string name="nav_drawer_close">Close navigation drawer</string>
+
+    <string name="action_order">Order by rates</string>
+    <string name="action_refresh">Refresh</string>
+
+
+    <string name="content_desc">Bitcoin Icon</string>
+
+    <string name="contribute">Contribute</string>
+    <string name="courtesy">Thanks to:</string>
+    <string name="github">github</string>
+    <string name="cryptocompare_licence">Cryptocompare API</string>
+
+    <string name="money">Money</string>
+    <string name="btc">BTC</string>
+    <string name="eth">ETH</string>
+
+    <string name="btc_sign">BTC:</string>
+    <string name="eth_sign">ETH:</string>
+
+    <string name="amount_hint">0.00</string>
+
+    <string name="convert">Convert</string>
+    <string name="close">Close</string>
+
 </resources>
